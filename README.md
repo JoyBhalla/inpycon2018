@@ -15,8 +15,9 @@ As a contributor please follow the [Code of Conduct](CODE_OF_CONDUCT.md) to keep
 
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](LICENSE.md)
 
-##FAQ HTML Elements 
+## FAQ HTML Elements 
 
+```
 <div class="pycon-faq">
 <h5<b>
 <ul class="faq-answer">
@@ -24,5 +25,6 @@ As a contributor please follow the [Code of Conduct](CODE_OF_CONDUCT.md) to keep
 </ul>
 </b></h5>
 </div>
+```
 
 This template should be followed when adding a new FAQ 
